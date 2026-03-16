@@ -9,8 +9,8 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
 ## リポジトリ内特記事項
 
--[基本データ*普通の人間ではない](ADMIN_REX_NUMERICAL_BASELINE.md)
--[生息データ自動収集データ](CHOIIZUKA_Metrics_Collector)
+-[基本データ*普通の人間ではない]ADMIN_REX_NUMERICAL_BASELINE.md
+-[生息データ自動収集データ]CHOIIZUKA_Metrics_Collector
 
 ## Adminからの要望
 
