@@ -13,9 +13,10 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
 ## CHOIIZUKA CRONE
 
-*暫定的な作成で作成途上
+*暫定的な作成で作成途上だが様々な設定を作ってある
+*ただし遊びでやってるとかカクテルを飲みながらのような要素が入っていなかったはず
 
 -https://github.com/choiizuka/Choiizuka_Crone
 
 ---
-2026.3.17 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI
+2026.3.17 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.0
