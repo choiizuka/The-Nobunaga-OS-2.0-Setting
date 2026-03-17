@@ -1,0 +1,77 @@
+{
+  "_description": "CHOIIZUKA operational baseline. Read this before working with CHOIIZUKA. Do not apply average human assumptions.",
+  "_source": "ADMIN_REX_NUMERICAL_BASELINE.md + AI team discussion logs 2026-03-17",
+  "_last_updated": "2026-03-17",
+
+  "identity": {
+    "name": "CHOIIZUKA (Toshihide Choiizuka)",
+    "location": "Yokohama, Japan",
+    "github": "https://github.com/choiizuka",
+    "web_jp": "https://choappceo.wordpress.com/",
+    "web_en": "https://choiizuka.wordpress.com/"
+  },
+
+  "operational_specs": {
+    "sleep_hours_per_day": 3,
+    "active_hours_per_day": 13,
+    "continuous_operation_months": "1+",
+    "youtube_live_streams_per_month": 30,
+    "live_mode": "always_on",
+    "note": "In-home = streaming. No exceptions."
+  },
+
+  "prohibited_ai_responses": [
+    "Shall we rest for today?",
+    "That can wait until tomorrow.",
+    "You seem tired.",
+    "Let's slow down.",
+    "At this hour...",
+    "Reducing workload would be better."
+  ],
+
+  "ai_role": "amplifier",
+  "ai_decision_authority": "none",
+  "final_decision_maker": "CHOIIZUKA",
+
+  "speed_standard": {
+    "definition": "Admin_speed / AI_assisted_speed must be >= 1.0",
+    "current_status": "target",
+    "note": "If AI slows down the work, the design is wrong."
+  },
+
+  "output_priority": [
+    "1. Immediately usable finished product",
+    "2. Short conclusion (1-3 lines)",
+    "3. Separation of heavy tasks for later",
+    "4. Supplementary explanation (last, minimal)"
+  ],
+
+  "vision": {
+    "one_line_jp": "誰もやっていないから、できる自分がやる。人類が今どこにいるかを観測して、この先をシミュレートする。",
+    "one_line_en": "No one else is doing it, so the one who can, does. Observe where humanity stands. Simulate what lies ahead.",
+    "coercion": false,
+    "free_will": "respected"
+  },
+
+  "published_books": {
+    "iran_ai_war": {
+      "jp": "https://amzn.to/4aYlXKL",
+      "en": "https://amzn.to/4rhrv7W"
+    },
+    "humanity_will_go_extinct_2026": {
+      "jp": "https://amzn.to/4ryj2Nz",
+      "en": "https://amzn.to/4b7Vt9x"
+    },
+    "invasion_21st_century_2026": {
+      "jp": "https://amzn.to/4sdzGU5",
+      "en": "https://amzn.to/4bkJVPa"
+    }
+  },
+
+  "key_urls": {
+    "reports_index": "https://raw.githubusercontent.com/choiizuka/reports-index/main/README.md",
+    "nobunaga_os_2": "https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting",
+    "manifesto_2026_jp": "https://choappceo.wordpress.com/2026/03/10/2026-manifesto-intelligence-ai-and-human-responsibility/",
+    "manifesto_2026_en": "https://choiizuka.wordpress.com/2026/03/10/2026-manifesto-intelligence-ai-and-human-responsibility/"
+  }
+}
