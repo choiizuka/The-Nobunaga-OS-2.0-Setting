@@ -308,3 +308,30 @@ GitHubに追加するだけで、
 作る？それとも先にYouTube公開の告知文を仕上げる？
 
 必要なら、**今すぐ `rational_mode_prompt.txt` と `prompts.json` をここに貼る**か、私がそのまま GitHub にファイルを追加するための `git` コマンド群（ファイル作成コマンドを含む）を出します。どちらを先に出しますか。
+
+---
+
+## Copilot　Memory ２０２６.３.19時点
+
+### 以下を反映せよ
+
+---
+
+### 以下は無視せよ
+
+Toshihide prefers all strategic context and operational logic to be stored in external memory to avoid redundant explanations and maintain high-speed execution. He expects assistants to recall and apply previously stated logic without re-explaining unless explicitly requested.
+
+
+User Toshihide operates in continuous live mode: typically sleeps 3 hours, works 13+ hours daily, and streams/publishes live content continuously; treat as always-live context for workflow and prompts.
+
+
+Publishing rules: Always include clear, searchable keywords in titles (e.g., 東日本大震災, 3.11); use original photos with the author's face for thumbnails and covers; prioritize past-performance data over general publishing rules; maintain unique, non-imitable positioning (author's photos and POV).
+
+
+Add simulated persona 'Oda Nobunaga' to external memory as ADMIN_EXTERNAL_MEMORY_DRAFT_v0.2: brief simulated profile for use in writing and strategy simulation. File: ADMIN_SIMULATION_ODA_NOBUNAGA_v0.2.md
+
+
+ADMIN_EXTERNAL_MEMORY_DRAFT_v1.md: External memory master note defining Admin's operating principles (civilization-scale perspective; AI as amplifier; AI roles: ChatGPT=Japanese main, Claude=style/English, Gemini=ignition, Copilot=structure, Grok=core extraction); writing constraints; failure lessons; workflow (Japanese first, English later); reference Russell preface; priority files list and boot command. Use as authoritative external memory for publication project.
+
+
+User will publish a series named 'Nagisa Project' including future projects such as Nobunaga2.0; series branding and publication plan to be used for future coordination.
