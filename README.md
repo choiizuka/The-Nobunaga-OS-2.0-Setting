@@ -11,7 +11,7 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
 ## 秘密情報保持 - Confidential
 
-- "confidential.md"参照
+- [参照](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/confidential.md)
 
 ## Execution Preference & AI Interaction Rules (Update 2026-03-18)
 
