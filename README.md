@@ -62,6 +62,10 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
 - [研究レポートなど](https://github.com/choiizuka/reports-index/)
 
+## 過去の実験
+
+- [CHOIIZUKA 2025年のThreads実験まとめ](https://note.com/choiizuka/n/n14968def8139)
+
 ## CHOIIZUKA CRONE
 
 *暫定的な作成で作成途上だが様々な設定を作ってある
