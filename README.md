@@ -84,6 +84,8 @@ CHOIIZUKAは、AI時代の人類・文明・絶滅リスクを扱いながら、
 
 ## 成果物一覧
 
+思想や過去の調査結果などは以下を参照
+
 - [研究レポートなど](https://github.com/choiizuka/reports-index/)
 
 ## SNS Operation Principle / SNS運用原則
