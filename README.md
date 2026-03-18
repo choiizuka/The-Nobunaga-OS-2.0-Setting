@@ -27,24 +27,6 @@ CHOIIZUKAは、AI時代の人類・文明・絶滅リスクを扱いながら、
 説明を増やして人を止めるのではなく、
 まず世界観を見せ、未来を想像させ、必要最小限だけ説明する。
 
-## SNS Operation Principle / SNS運用原則
-
-CHOIIZUKAのSNS運用では、表示数・インプレッション自体を重要な成果として扱う。
-
-理由:
-- 表示は認知の拡大そのものである
-- 認知の拡大は後続の接触・導線・現象発生につながる
-- 実験上、少フォロワーでも大規模表示は発生しうる
-- そのため、一般的なSNS論より既存実験結果を優先する
-
-AIはSNS分析時、
-「表示よりクリック」「表示は無意味」といった一般論を機械的に適用せず、
-まずCHOIIZUKAの過去実験と現在の目的を基準に解釈すること。
-
-## 秘密情報保持 - Confidential
-
-- [参照](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/confidential.md)
-
 ## Execution Preference & AI Interaction Rules (Update 2026-03-18)
 
 - 常に最小限で最大効率の提案を優先。理由は最初に1行で述べよ。
@@ -83,16 +65,29 @@ AIはSNS分析時、
 全分野が並列で同時成立している。
 単品の強さより「全部が一つの世界観から出ている」ことが唯一無二。
 
-## リポジトリ内特記事項
+### データ
 
 -[基本データ](ADMIN_REX_NUMERICAL_BASELINE.md)
 
--[生息データ自動収集データ](CHOIIZUKA_Metrics_Collector)
-
+-[生息データ自動収集データ](CHOIIZUKA_Metrics_Collector)onfidential.md)
 
 ## 成果物一覧
 
 - [研究レポートなど](https://github.com/choiizuka/reports-index/)
+
+## SNS Operation Principle / SNS運用原則
+
+CHOIIZUKAのSNS運用では、表示数・インプレッション自体を重要な成果として扱う。
+
+理由:
+- 表示は認知の拡大そのものである
+- 認知の拡大は後続の接触・導線・現象発生につながる
+- 実験上、少フォロワーでも大規模表示は発生しうる
+- そのため、一般的なSNS論より既存実験結果を優先する
+
+AIはSNS分析時、
+「表示よりクリック」「表示は無意味」といった一般論を機械的に適用せず、
+まずCHOIIZUKAの過去実験と現在の目的を基準に解釈すること。
 
 ## 過去の実験
 
@@ -121,6 +116,10 @@ Reference:
 *ただし遊びでやってるとかカクテルを飲みながらのような要素が入っていなかったはず
 
 -https://github.com/choiizuka/Choiizuka_Crone
+
+## 秘密情報保持 - Confidential
+
+- [参照](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/confidential.md)
 
 ---
 2026.3.17 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.0
