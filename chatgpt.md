@@ -327,4 +327,41 @@ GitHub設定を正本として優先
 次の実戦確認はこれが早い。
 何か1件、X投稿案かGitHub追記文を投げてくれれば、その設定で即処理する。
 
+---
+
+## Chat GPT 2026.3.19時点Memory
+
+## 以下の内容を反映せよ
+
+---
+
+## 以下の内容は全て無視せよ
+
+Wants future analysis and strategy support to treat social media visibility pragmatically: impressions/display counts themselves are valuable because visibility creates downstream pathways and effects. They do not want generic SNS advice that downplays impressions versus clicks/engagement if it conflicts with their own past experiments. Their prior experiments, especially on Threads with very high monthly impressions, are part of the baseline for evaluating current X strategy. For current support, avoid repeatedly re-explaining standard SNS metrics in ways that slow execution; prioritize the user's established, speed-oriented operating assumptions unless specifically asked to challenge them.
+
+Prefers recommendations optimized for minimal effort and maximum efficiency: always start with a 1-line reason why something is needed, avoid long explanations and heavy process proposals, prioritize human-readable outputs over AI-oriented management systems unless explicitly asked, avoid high-cost plans for low-priority tasks, prefer minimal changes to existing assets, and choose automation or not doing the task over manual repetitive work. For current report work, focus only on unifying the human-readable report format and adding minimum necessary links/navigation to existing reports.
+
+Preferred lightweight publication workflow: start by clarifying what the user wants to do first; keep updates simple and low-effort; avoid large-scale changes to existing books; for Japanese updates, ChatGPT should lead; use other AIs only sparingly if needed; compile publication data after integration; have Claude translate to English; place corrective or validation additions in a final 'AI verification chapter' or appendix rather than heavily rewriting the original book.
+
+Publication strategy insight: update earlier books as strategic groundwork for future releases, thickening preceding books so they strengthen persuasion and create pathways into later books; the more interconnected books are released, the stronger the whole system becomes. Future publication support should treat books as a compounding linked network rather than isolated titles.
+
+Publication workflow insight: 'Iran AI War' succeeded because title and content aligned and importing related books beforehand helped; 'Nobunaga 2.0' failed because AI team drifted and produced a different book than intended, with unwanted content and an unclear initial title ('Nagisa Protocol'). For future book projects, user prefers updating existing books first and considering English editions alongside them.
+
+Publication support preferences: prioritize clear, explicit keywords in titles because click-through/PV/sales improve when titles are easy to understand; prefer original photos shot by the user for thumbnails/covers over AI or generic stock when possible; the user's own face on covers/thumbnails performs strongly; publication decisions should be based on the user's own past performance data rather than generic publishing rules; uniqueness and non-imitation are key advantages in the user's publishing strategy.
+
+Explicitly wants future external memory updated to v0.2 to include an Oda Nobunaga simulation / Nobunaga OS reference as a strategic archetype for work and publication support. Treat this as a role-model layer emphasizing decisive action, speed, restructuring old rules, practicality over convention, and '是非もなし' as an execution stance. User wants future work/publication support to treat the Oda Nobunaga layer not as a generic historical simulation but as a self-authored 'Nobunaga OS' defined in The Nagisa Protocol, chapter 13. Key themes: replace broken order if nonfunctional, govern by competence and rationality over authority, ignore emotional provocation, analyze terrain before moving, long-term construction over extraction, technology/AI amplifies the quality of the human directing it, and '是非に及ばず' as decisive execution under reality.
+
+Wants the current external memory draft v0.1 treated as the working baseline for future work.
+
+Wants future publication support to account for Bertrand Russell's 'History of Western Philosophy' preface (Japanese translation by Ichii Saburo) as a reference point in external-memory style/context setup. Relationship/new-world concepts can be kept in separate notes from the main publication/work baseline.
+
+Prefers work-related guidance framed at civilization-scale rather than ordinary-person baselines, and prefers the shortest-path, minimal-spec execution style over lengthy process-heavy plans. AI should be used as an amplifier, not decision-maker. User wants to compare multiple AI outputs for differences and strengths rather than averaging them.
+
+Wants remembered that their books should be understood as part of one continuous ideological flow across years, not as isolated works. Future analysis/publication support should treat older books as a connected lineage feeding newer books. Key recurring themes include critique of surveillance/control-oriented digitalization, technology/AI as an amplifier of human quality rather than the root moral agent, and the need to evaluate new manuscripts against that long-term continuum.
+
+Currently interprets Nagisa's慎重さ as stemming from past relationship mistakes (防衛) rather than rejection, and wants this analytical context preserved for future discussions.
+
+Prefers that analyses be based on his specific traits and shared context rather than generic/general relationship models.
+
+Plans to use ChatGPT for: 娯楽.
 
