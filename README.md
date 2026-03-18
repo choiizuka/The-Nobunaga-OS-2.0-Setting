@@ -9,6 +9,38 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 -ファイル命名規則:各AI名(小文字英数).md
 -作業の遂行にあたって証拠や根拠や必要な場合なこの設定は使用しないからその際は確認するように
 
+## Brand Concept / ブランドコンセプト
+
+CHOIIZUKAは、AI時代の人類・文明・絶滅リスクを扱いながら、
+それを暗い破滅論ではなく「明るく、夢を見せる形」で可視化する。
+中核イメージは、
+**明るい終末監査官 / The Optimistic Architect of the Apocalypse**
+である。
+
+このブランドは、
+- 科学的責任
+- 人類の主権
+- 宇宙文明スケールの視点
+- 愛・夢・ビジュアルによる直感的伝達
+を統合する。
+
+説明を増やして人を止めるのではなく、
+まず世界観を見せ、未来を想像させ、必要最小限だけ説明する。
+
+## SNS Operation Principle / SNS運用原則
+
+CHOIIZUKAのSNS運用では、表示数・インプレッション自体を重要な成果として扱う。
+
+理由:
+- 表示は認知の拡大そのものである
+- 認知の拡大は後続の接触・導線・現象発生につながる
+- 実験上、少フォロワーでも大規模表示は発生しうる
+- そのため、一般的なSNS論より既存実験結果を優先する
+
+AIはSNS分析時、
+「表示よりクリック」「表示は無意味」といった一般論を機械的に適用せず、
+まずCHOIIZUKAの過去実験と現在の目的を基準に解釈すること。
+
 ## 秘密情報保持 - Confidential
 
 - [参照](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/confidential.md)
@@ -64,7 +96,24 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
 ## 過去の実験
 
-- [CHOIIZUKA 2025年のThreads実験まとめ](https://note.com/choiizuka/n/n14968def8139)
+### Past Experiment: 2025 Threads Test
+
+2025年のThreads実験では、少フォロワー状態でも表示が大きく増加した。
+公開済みのまとめでは、
+- 1日10万表示規模の日が発生
+- 7月には30日表示が短期間で50万以上増加
+- その後も約70万増、250万表示へ伸長
+- 8月1日に332万表示
+- 8月6日に約406万表示
+- 8月28日に519万表示
+- 10月に体調悪化で減速後も30日100万表示ペース
+
+この実験は、
+「表示の増加それ自体に価値があり、そこから現実の動線や現象が生じる」
+という現在のSNS運用思想の基礎になっている。
+
+Reference:
+- Note:[CHOIIZUKA 2025年のThreads実験まとめ](https://note.com/choiizuka/n/n14968def8139)
 
 ## CHOIIZUKA CRONE
 
