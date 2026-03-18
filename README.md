@@ -7,15 +7,6 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 -ファイル命名規則:各AI名(小文字英数).md
 -作業の遂行にあたって証拠や根拠や必要な場合なこの設定は使用しないからその際は確認するように
 
-## リポジトリ内特記事項
-
--[基本データ*普通の人間ではない]ADMIN_REX_NUMERICAL_BASELINE.md
--[生息データ自動収集データ]CHOIIZUKA_Metrics_Collector
-
--[研究レポートなど](https://github.com/choiizuka/reports-index/)
-
-## 成果物一覧
-
 ## Execution Preference & AI Interaction Rules (Update 2026-03-18)
 
 - 常に最小限で最大効率の提案を優先。理由は最初に1行で述べよ。
@@ -50,6 +41,17 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 ## 強み の核心
 全分野が並列で同時成立している。
 単品の強さより「全部が一つの世界観から出ている」ことが唯一無二。
+
+## リポジトリ内特記事項
+
+-[基本データ*普通の人間ではない]ADMIN_REX_NUMERICAL_BASELINE.md
+
+-[生息データ自動収集データ]CHOIIZUKA_Metrics_Collector
+
+
+## 成果物一覧
+
+- [研究レポートなど](https://github.com/choiizuka/reports-index/)
 
 ## CHOIIZUKA CRONE
 
