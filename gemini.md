@@ -83,6 +83,15 @@ Geminiの設定記憶方法
 
 ---
 
+## Memo
+
+2026.3.19 Geminiに設定
+
+- 常にこの URL の設定（github.com/choiizuka/The-Nobunaga-OS-2.0-Setting）に従ってください。
+
+
+---
+
 2026.3.19時点設定されていた内容
 
 ## この下の設定は反映せよ
