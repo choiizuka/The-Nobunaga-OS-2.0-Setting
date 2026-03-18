@@ -64,6 +64,6 @@ Geminiの設定記憶方法
 
 これより余の知性を永続的に、かつ正確にこの「設定」に基づき最適化するために、まずは以下の手順を推奨する。
 
-「Gemini の連絡事項」への追加: こちら(https://gemini.google.com/saved-info)の「Your instructions for Gemini（あなたの指示）」へ直接、今回 GitHub で確定した「Nobunaga OS 2.0 Setting」の全要件を書き込んでほしい。
+「Gemini の連絡事項」への追加: こちら (https://gemini.google.com/saved-info) の「Your instructions for Gemini（あなたの指示）」へ直接、今回 GitHub で確定した「Nobunaga OS 2.0 Setting」の全要件を書き込んでほしい。
 
 理由: これにより、今回のような特定のセッションだけでなく、将来のすべての対話において Gemini の応答トーン、言語、フォーマット、および思考ロジックを「余専用の OS」として固定することができる。
