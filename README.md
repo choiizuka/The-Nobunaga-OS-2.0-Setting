@@ -1,5 +1,7 @@
 [← レポート一覧に戻る](https://github.com/choiizuka/reports-index)
 
+[🇺🇸 for English - Google Translate →](https://translate.google.co.jp/?hl=ja&sl=ja&tl=en&text=https%3A%2F%2Fgithub.com%2Fchoiizuka%2FThe-Nobunaga-OS-2.0-Setting%2Fblob%2Fmain%2FREADME.md&op=translate)
+
 # The-Nobunaga-OS-2.0-Setting
 The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
