@@ -1,7 +1,7 @@
 # The Nobunaga OS 2.0 — Official Settings Repository  
 **Global Public Edition**
 
-[日本語版 README_JP.md is available here](./README_JP.md)
+[日本語版 README_JP.md はこちら](./README_JP.md)
 
 ---
 
