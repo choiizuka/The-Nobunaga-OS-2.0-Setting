@@ -1,4 +1,4 @@
-[🇺🇸 for English - Google Translate →](https://translate.google.co.jp/?hl=ja&sl=ja&tl=en&text=https%3A%2F%2Fgithub.com%2Fchoiizuka%2Freports-index%0A&op=translate)
+[🇺🇸 for English - Google Translate →](https://translate.google.co.jp/?hl=ja&sl=ja&tl=en&text=https%3A%2F%2Fgithub.com%2Fchoiizuka%2FThe-Nobunaga-OS-2.0-Setting%2Fblob%2Fmain%2Fpublic_observations%2Fsns_positivity_happiness_system_v2.0.md%0A&op=translate)
 
 # SNSポジティブ度・幸福度観測システム仕様書  
 **Public Edition / v2.0**  
