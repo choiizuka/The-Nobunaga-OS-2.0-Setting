@@ -3,8 +3,6 @@
 # The-Nobunaga-OS-2.0-Setting
 The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
-[English Ver. README.md is available here](./README.md)
-
 ## 各AIへ
 
 - 作業時は当リポジトリ内の下記のファイルにアクセスし設定をインポートせよ
