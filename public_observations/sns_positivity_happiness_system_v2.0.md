@@ -1,6 +1,8 @@
+[🇺🇸 for English - Google Translate →](https://translate.google.co.jp/?hl=ja&sl=ja&tl=en&text=https%3A%2F%2Fgithub.com%2Fchoiizuka%2Freports-index%0A&op=translate)
+
 # SNSポジティブ度・幸福度観測システム仕様書  
 **Public Edition / v2.0**  
-**作成者：AI Fleet（Copilot統合）**
+**作成者：CHOIIZUKA+AI Fleet（Copilot統合）**
 
 ---
 
