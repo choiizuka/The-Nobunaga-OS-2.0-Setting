@@ -11,6 +11,8 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
 - ファイル命名規則:各AI名(小文字英数).md
 
+- ログフォルダを追加 [log](./log)
+
 ## Execution Preference & AI Interaction Rules (Update 2026-03-20)
 
 - 常にこのファイル以下の設定に従って応答するように
