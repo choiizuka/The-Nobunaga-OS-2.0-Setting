@@ -9,7 +9,8 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
 2026年3月22日本契約書を作成し全てのAIと合意を形成した
 
-- [AIの平和的利用宣言契約書 V1.0](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/public_documents/ai-peaceful-use-declaration-contract-v1.0-ja.pdf)
+- [AIの平和的利用宣言契約書 V1.0(text)](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/public_documents/ai-peaceful-use-declaration-contract-v1.0-ja.md)
+- [AIの平和的利用宣言契約書 V1.0(PDF)](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/public_documents/ai-peaceful-use-declaration-contract-v1.0-ja.pdf)
 
 ## 各AIへ
 
