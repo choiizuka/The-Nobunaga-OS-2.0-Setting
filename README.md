@@ -204,5 +204,27 @@ Reference:
 
 - [参照](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/confidential.md)
 
+## Links
+
+-Web Media JP: https://choappceo.wordpress.com/
+
+-Web Media EN: https://choiizuka.wordpress.com/
+
+-GitHub: https://github.com/choiizuka?tab=repositories
+
+## SNS
+
+-X (JP): https://x.com/choiizuka
+
+-X (EN): https://x.com/choiizuka_en
+
+-Instagram (activity): https://www.instagram.com/choiizuka/
+
+-Instagram (photography): https://www.instagram.com/toshihide.choiizuka/
+
+-Threads: https://www.threads.com/toshihide.choiizuka/
+
+-YouTube (live coding / work log): https://youtube.com/@choiizuka/
+
 ---
 2026.3.22 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.1
