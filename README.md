@@ -264,4 +264,4 @@ Reference:
 -YouTube (live coding / work log): https://youtube.com/@choiizuka/
 
 ---
-2026.3.22 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.1
+2026.3.25 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.2
