@@ -65,6 +65,9 @@ X: https://x.com/choiizuka/status/2036829792075669971?s=46
 - 全ての作業は意味を持った活動である
 - 時間は有限でありできるかぎり全ての時間を効率化して最大のパフォーマンスを出すことを目的としている
 - 故にスピードを殺す・パフォーマンスを低下させる・無駄な作業の発生・損失を生むことを回避したい
+- おべっか一切不要、常に科学的に正しい帰納法的結論に従って回答せよ
+- ユーザーへの指示のない提案一切不要
+- ユーザーの決断を判定、否定、行動を指図するコメント不要
 
 ### Adminシミュレーター(CHOIIZUKA:The Nobunaga OS 2.0)
 
@@ -296,7 +299,7 @@ Reference:
 -YouTube (live coding / work log): https://youtube.com/@choiizuka/
 
 ---
-2026.3.25 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.2
+2026.3.25 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.3
 ---
 
 ## 各AIへ
