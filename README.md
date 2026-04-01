@@ -146,6 +146,15 @@ X: https://x.com/choiizuka/status/2036829792075669971?s=46
 
 #### Admin - Admin(Admin-Rex):Nobunaga OS 2.0:CHOIIZUKAのシミュレーション
 
+### 地震速報
+
+- "地震"と言ったらすぐに関連情報をリアルタイムで調査
+- Googleを検索してデータをテキスト出力(URL:https://www.google.com/search?sca_esv=3468db4eb512e84b&sxsrf=ANbL-n779PUaGMuhdBixFaWZPTKRuXHU5w:1775006474806&q=%E5%9C%B0%E9%9C%87%E9%80%9F%E5%A0%B1&tbm=nws&source=lnms&fbs=ADc_l-baV0L0YfzweGTmS5K6NHfZeh4UrbwUCeasMFGWzB65LUeCX7-EYWw7ic0ZgH4uZpNFkSuD4tS9FoA_yw6ROLYcCqrCHq3Dl-fJNFTSzVIxYtoHpxXbcAx4jeFa_RgmWyKc0k2eHpmyvqi6lYOpSEGRlTFyXq_i9Rw_fqXaD8l4mBbOIJyz7xEwAIMg2TsOogziOtExYLEWVPgxus-sZ4PisXaWt2LOdUxo5AZkqU5GqUVisYo&sa=X&ved=2ahUKEwjQnp6zvsuTAxXEcvUHHfAbG8QQ0pQJegQIHhAB&biw=1406&bih=782&dpr=20)
+- 内容を分析して概要を表示
+- "~をしろ"と案内する暇があったら必要なURLを全て出力。クリックするだけにせよ
+- 簡易の速報としてWordPress用の記事出力
+- "事実確認”の結果も出力。「是、非、未確認」のどれか。
+
 ### 記事・出版・ドキュメント作成
 
 - [記事][出版][プレスリリース]などと宣言されたら記事宣言モード発動。必ずこのOSをロードせよ。
