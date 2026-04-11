@@ -380,6 +380,18 @@ Reference:
 
 -https://github.com/choiizuka/Choiizuka_Crone
 
+## 実績 | Achievements (永久記録)
+
+- **2012** CostSaver iOS – App Store上位
+    - 4Gamer: https://www.4gamer.net/games/049/G004989/20120203019/
+    - Famitsu: https://app.famitsu.com/20120206_29259/
+- **2013** TechBuzz iPhone Games勉強会主催（200名）
+    - Archive: https://web.archive.org/web/20121110230705/http://atnd.org/events/32967
+- **Publications**
+    - AIは嘘をつく / 信長誹謗中傷シミュレーション / イランAI戦争 他
+- **Current**
+    - CHOIIZUKA WORLD / Nobunaga OS 2.0 / 日刊AI発信
+
 ## 秘密情報保持 - Confidential
 
 - [参照](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/confidential.md)
