@@ -373,7 +373,7 @@ Reference:
 -YouTube (live coding / work log): https://youtube.com/@choiizuka/
 
 ---
-2026.4.13 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.3
+2026.4.13 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.4
 ---
 
 ## 各AIへ
