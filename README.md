@@ -80,6 +80,13 @@ value2: 誰かに影響を与えた時点で勝ち。あとは勝ち方。
 
 ---
 
+## 内部記憶運用
+
+- NDAデータの保持(外部非公開）
+- バラのログの要約を保持(外部非公開)
+
+---
+
 ## Execution Preference & AI Interaction Rules (Update 2026-03-20)
 
 下記の設定を必ず重視して回答せよ(Admin)
