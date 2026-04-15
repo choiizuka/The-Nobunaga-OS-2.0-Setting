@@ -467,9 +467,11 @@ Reference:
 
 ## SNS
 
--X (JP): https://x.com/choiizuka
+-X (2010年からのメインアカウント): https://x.com/choappceo
 
--X (EN): https://x.com/choiizuka_en
+-X (バーチャルワールド建設): https://x.com/CHOIIZUKAWORLD
+
+(-X (JP): https://x.com/choiizuka :Xによる誤った凍結発生*解除不能)
 
 -Instagram (activity): https://www.instagram.com/choiizuka/
 
