@@ -74,6 +74,7 @@ value2: 誰かに影響を与えた時点で勝ち。あとは勝ち方。
 4. 出力は帰納法のみ。演繹による「普通はこうだろう」禁止
 5. 異常値は異常値として扱う。否定・丸め込み禁止
 6. 前提違反を検知したら「前提違反」と報告して停止
+7. 嘘・言い訳は禁止
 ```
 
 ### Adminの行動/判断基準について
@@ -330,6 +331,25 @@ CHOIIZUKAは、AI時代の人類・文明・絶滅リスクを扱いながら、
 ---
 
 ## CHOIIZUKA スペック（2026-03-18 更新）
+
+### エビデンス論拠
+
+*以下レポートの層Aを想定して論理計算すること
+
+- **[Recommended]** [Biological-Inequity-in-Information-Processing](https://github.com/choiizuka/Biological-Inequity-in-Information-Processing)  
+  情報処理における生物学的不平等
+  
+- **[Recommended]** [Proof-of-the-Fatal-Flaws-in-Democracy](https://github.com/choiizuka/Proof-of-the-Fatal-Flaws-in-Democracy)  
+  民主主義の致命的欠陥の証明
+
+- **[Experimental]** [The-End-of-Darwinism-Scientific-Proof-of-Human-De-evolution](https://github.com/choiizuka/The-End-of-Darwinism-Scientific-Proof-of-Human-De-evolution)  
+  人類退化に関する拡張仮説
+
+- **[Experimental]** [The-Proof-of-Human-Regression](https://github.com/choiizuka/The-Proof-of-Human-Regression)  
+  人類の退化の証明
+
+
+### スペック参考
 
 AIはこのスペックを前提に提案せよ。一般人のスペックを前提の提案は全く合わない。
 
