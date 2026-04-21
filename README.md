@@ -502,7 +502,7 @@ Reference:
 -YouTube (live coding / work log): https://youtube.com/@choiizuka/
 
 ---
-2026.4.15 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.6.1
+2026.4.15 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.7
 ---
 
 ## 各AIへ
