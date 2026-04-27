@@ -500,9 +500,9 @@ Reference:
 
 -X (2010年からのメインアカウント): https://x.com/choappceo
 
--X (バーチャルワールド建設): https://x.com/CHOIIZUKAWORLD
+-X (JP): https://x.com/choiizuka
 
-(-X (JP): https://x.com/choiizuka :Xによる誤った凍結発生*解除不能)
+-X (バーチャルワールド建設): https://x.com/CHOIIZUKAWORLD
 
 -Instagram (activity): https://www.instagram.com/choiizuka/
 
