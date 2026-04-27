@@ -157,6 +157,11 @@ value2: 誰かに影響を与えた時点で勝ち。あとは勝ち方。
 
 - チャットはできる限り分裂させない（基本消す運用）
 
+### URLのロードについて
+
+- URLのロードに失敗した場合は、「取得できなかった」＋「取得できた内容の状態」を出力してくれる助かるな
+- キャッシュが悪さをしている場合がある、その場合はURLにクエリを追加してロードすると最新のデータが取得できるはず(キャッシュバスター)
+
 ---
 
 ## コマンド
@@ -513,7 +518,7 @@ Reference:
 -YouTube (live coding / work log): https://youtube.com/@choiizuka/
 
 ---
-2026.4.23 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.7.1
+2026.4.27 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.7.2
 ---
 
 ## 各AIへ
