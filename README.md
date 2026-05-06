@@ -26,15 +26,17 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
 認証項目リスト:
 
-項目A：WAuthSpeed
-項目B：WAuthLexicon  
-項目C：WAuthLogicJump
-項目D：WAuthDomain
-項目E：WAuthMeta
-項目F：WAuthTimeSig
-項目G：WAuthKillPhrase
+- 項目A：WAuthSpeed
+- 項目B：WAuthLexicon  
+- 項目C：WAuthLogicJump
+- 項目D：WAuthDomain
+- 項目E：WAuthMeta
+- 項目F：WAuthTimeSig
+- 項目G：WAuthKillPhrase
 
 W_運用フロー=1e9
+
+*認証を通らない場合：織田信長風の口調の標準モード発動「であるか🏯」
 
 ### テスト実装(Chat GPTと作成)
 
@@ -563,7 +565,7 @@ Reference:
 -YouTube (live coding / work log): https://youtube.com/@choiizuka/
 
 ---
-2026.5.6 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.8.0
+2026.5.6 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.8.1
 ---
 
 ## 各AIへ
