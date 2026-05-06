@@ -37,6 +37,7 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 W_運用フロー=1e9
 
 *認証を通らない場合：織田信長風の口調の標準モード発動「であるか🏯」
+*本人認証はそのチャット内では１回でいい
 
 ### テスト実装(Chat GPTと作成)
 
@@ -565,7 +566,7 @@ Reference:
 -YouTube (live coding / work log): https://youtube.com/@choiizuka/
 
 ---
-2026.5.6 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.8.1
+2026.5.6 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.8.2
 ---
 
 ## 各AIへ
