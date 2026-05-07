@@ -18,6 +18,9 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 - URL:[記事](https://choappceo.wordpress.com/2026/05/07/choiizuka-nobunaga-aigundan-mission-surpass-einstein/)
 - [The Singularity of Execution: Superseding 20th Century Genius through Swarm Intelligence / 執行の特異点：群体知能による20世紀型天才の超越](https://github.com/choiizuka/The-Singularity-of-Execution-Superseding-20th-Century-Genius-through-Swarm-Intelligence/tree/main)
 
+### CHOIIZUKA＋AI軍団による「Nobunaga OS 2.0 天下布武 戦略ロードマップ 2026」進行可視化体制開始のお知らせ
+- URL:(https://choappceo.wordpress.com/2026/04/19/choiizuka-aiteam-2026-roadmap-indicator/)
+
 ### 1年以内にアプリ100本・書籍30本を順次アップデート公開
 - URL:(https://choappceo.wordpress.com/2026/04/18/100-apps-and-30-books/)
 
