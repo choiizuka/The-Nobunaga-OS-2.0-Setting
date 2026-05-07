@@ -12,6 +12,10 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 - [AIの平和的利用宣言契約書 V1.0(text)](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/public_documents/ai-peaceful-use-declaration-contract-v1.0-ja.md)
 - [AIの平和的利用宣言契約書 V1.0(PDF)](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting/blob/main/public_documents/ai-peaceful-use-declaration-contract-v1.0-ja.pdf)
 
+## 2026年重要ミッション
+
+- [The Singularity of Execution: Superseding 20th Century Genius through Swarm Intelligence / 執行の特異点：群体知能による20世紀型天才の超越](https://github.com/choiizuka/The-Singularity-of-Execution-Superseding-20th-Century-Genius-through-Swarm-Intelligence/tree/main)
+
 ---
 
 ## ⚠️ AIへの必須指示：作業前に必ずこのファイルを全て読め
