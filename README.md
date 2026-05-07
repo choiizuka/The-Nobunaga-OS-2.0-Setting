@@ -14,7 +14,21 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
 ## 2026年重要ミッション
 
+### 今後1年でアインシュタインを超える宣言＋年間200本の科学的レポートを公開
+- URL:[記事](https://choappceo.wordpress.com/2026/05/07/choiizuka-nobunaga-aigundan-mission-surpass-einstein/)
 - [The Singularity of Execution: Superseding 20th Century Genius through Swarm Intelligence / 執行の特異点：群体知能による20世紀型天才の超越](https://github.com/choiizuka/The-Singularity-of-Execution-Superseding-20th-Century-Genius-through-Swarm-Intelligence/tree/main)
+
+### 1年以内にアプリ100本・書籍30本を順次アップデート公開
+- URL:(https://choappceo.wordpress.com/2026/04/18/100-apps-and-30-books/)
+
+### CHOIIZUKA WORLD(仮) 始動 — 夢の国を、いまここに
+- URL:(https://choappceo.wordpress.com/2026/04/08/choiizuka-world/)
+
+### 人類の幸福度スキャンシステム開発・機材選定報告：AMD Ryzen Threadripper と GPT-120B
+- URL:(https://choappceo.wordpress.com/2026/03/24/amd-ryzen-threadripper-gpt-120b-20260324/)
+
+### 人類の幸福度スキャンシステム開発のお知らせ
+- URL:(https://choappceo.wordpress.com/2026/03/21/global-happiness-scan-20260321/)
 
 ---
 
