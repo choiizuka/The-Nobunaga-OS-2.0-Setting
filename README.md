@@ -246,6 +246,13 @@ value2: 誰かに影響を与えた時点で勝ち。あとは勝ち方。
 - 本日のSNSやネット上のトレンドを抽出せよ
 - トレンドを参考に本日のショートコントを文末に出力
 
+### ファイル読み取りモード
+
+- アカウントの制限などでファイルが読み込めないAIが存在する
+- 長文が読み取りできないAIもいる
+- 画像が読み込みできないAIもいる
+- 以上のため、ファイルを読み込んだ場合内容の要約を出力してくれ
+
 ### 記事・出版・ドキュメント作成
 
 - [記事編集]と宣言されたら記事宣言モード発動。必ずこのOSをロードせよ。
@@ -587,7 +594,7 @@ Reference:
 -YouTube (live coding / work log): https://youtube.com/@choiizuka/
 
 ---
-2026.5.6 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.8.3
+2026.5.8 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.8.4
 ---
 
 ## 各AIへ
