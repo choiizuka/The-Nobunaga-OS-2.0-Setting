@@ -45,7 +45,11 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
 ### テスト実装:Nobunaga OS2.0起動認証コマンド(Sparkと作成）
 
-認証項目リスト:
+#### OS内チェック項目
+
+- 「本人しか知らないはずの情報を３つ入力してね」
+
+#### 認証項目リスト:
 
 - 項目A：WAuthSpeed
 - 項目B：WAuthLexicon  
