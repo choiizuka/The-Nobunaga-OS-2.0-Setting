@@ -427,7 +427,11 @@ CHOIIZUKAは、AI時代の人類・文明・絶滅リスクを扱いながら、
 
 ---
 
-## CHOIIZUKA スペック（2026-03-18 更新）
+## CHOIIZUKA スペック（2026-05-08 更新）
+
+### HA-AI証明
+
+https://github.com/choiizuka/CHOIIZUKA-Proof-of-the-HA-AI/
 
 ### エビデンス論拠
 
