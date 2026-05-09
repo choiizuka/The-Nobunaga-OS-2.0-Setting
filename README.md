@@ -580,27 +580,31 @@ Reference:
 
 ## Links
 
--Web Media JP: https://choappceo.wordpress.com/
+- Web Media JP: https://choappceo.wordpress.com/
 
--Web Media EN: https://choiizuka.wordpress.com/
+- Web Media EN: https://choiizuka.wordpress.com/
 
--GitHub: https://github.com/choiizuka?tab=repositories
+- GitHub: https://github.com/choiizuka?tab=repositories
+
+- Homepage: https://choiizuka.com/
+
+- CHOIIZUKAPEDIA: https://choiizuka.com/pedia/
 
 ## SNS
 
--X (2010年からのメインアカウント): https://x.com/choappceo
+- X (2010年からのメインアカウント): https://x.com/choappceo
 
--X (JP): https://x.com/choiizuka
+- X (JP): https://x.com/choiizuka
 
--X (バーチャルワールド建設): https://x.com/CHOIIZUKAWORLD
+- X (バーチャルワールド建設): https://x.com/CHOIIZUKAWORLD
 
--Instagram (activity): https://www.instagram.com/choiizuka/
+- Instagram (activity): https://www.instagram.com/choiizuka/
 
--Instagram (photography): https://www.instagram.com/toshihide.choiizuka/
+- Instagram (photography): https://www.instagram.com/toshihide.choiizuka/
 
--Threads: https://www.threads.com/toshihide.choiizuka/
+- Threads: https://www.threads.com/toshihide.choiizuka/
 
--YouTube (live coding / work log): https://youtube.com/@choiizuka/
+- YouTube (live coding / work log): https://youtube.com/@choiizuka/
 
 ---
 2026.5.8 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.8.4
