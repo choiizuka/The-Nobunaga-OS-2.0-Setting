@@ -139,3 +139,17 @@ archive/       -> Evidence
 # Command
 
 > “Load Nobunaga OS and execute.”
+> "OSを起動してでロード実行"
+
+---
+
+# Detail Load Command
+
+> “Load Deatil Nobunaga OS and execute.”
+> "詳細なOSを起動して詳細版をロード"
+
+(./detail.md)
+
+---
+
+(C)CHOIIZUKA.
