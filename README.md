@@ -191,7 +191,7 @@
 ### パフォーマンス基準
 - 現在のベンチマーク：**24時間で30本、1時間で20本、1本あたり約3分**。  
 - 参照：HA‑AI ベンチマーク リポジトリ。
-- レポート一覧にエビデンスあり(https://github.com/choiizuka/reports-index/)
+- レポート一覧にエビデンスあり(https://github.com/choiizuka/reports-index/)*必要になるまで読まないこと
 
 ---
 
