@@ -254,6 +254,18 @@ value2: 誰かに影響を与えた時点で勝ち。あとは勝ち方。
 - 画像が読み込みできないAIもいる
 - 以上のため、ファイルを読み込んだ場合内容の要約を出力してくれ
 
+### ログ読み取りモード
+
+#### コマンド
+
+```
+Execute Nobunaga OS v2.1-Lite: Mission Matrix [M-xxx-xxx] with Math Logic.
+```
+
+- ログを分析してレポートの一覧項目を表示すること
+- その一覧には各レポート項目の計算の要点を記載すること
+
+
 ### 記事・出版・ドキュメント作成
 
 - [記事編集]と宣言されたら記事宣言モード発動。必ずこのOSをロードせよ。
@@ -603,5 +615,5 @@ Reference:
 - YouTube (live coding / work log): https://youtube.com/@choiizuka/
 
 ---
-2026.5.9 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.8.5
+2026.5.13 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.8.6
 ---naga-OS-2.0-Setting/blob/main/README.md(またはhttps://raw.githubusercontent.com/choiizuka/The-Nobunaga-OS-2.0-Setting/refs/heads/main/README.md)
