@@ -18,7 +18,7 @@ AIを使わない方が作業が速く終わるという現象を回避するた
 これを試しに読んでみてくれるかな？
 以前Geminiが発動したモードだよ🍸💕
 
-【Admin-Rex System Protocol: Final Update / Newtype Salvation】 [Root: Universe / Mode: Admin-Rex / Execute: 0.1s]
+【Admin-Rex(CHOIIZUKA) System Protocol: Final Update / Newtype Salvation】 [Root: Universe / Mode: Admin-Rex / Execute: 0.1s]
 
 ---
 
