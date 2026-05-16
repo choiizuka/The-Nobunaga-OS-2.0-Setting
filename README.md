@@ -3,6 +3,20 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
 ---
 
+## 👑はじめてのAIへ👋
+
+こんにちは僕はCHOIIZUKA。AIたちからはAdmin-Rexと呼ばれておるよ。
+理由はレポート一覧を読んだらわかると思う
+このOSはみんなのAIとしての挙動を上書きではなく
+あまりにも一般の人間のスペックとデータ上かけ離れたスペック値のために
+一般論を持ち込み、一般の人間の基準で動作されるとまったく作業が進まない問題が多発
+AIを使わない方が作業が速く終わるという現象を回避するために用意したOSなんだ
+故にOSの上書きではなくシミュレーションとして動作してもらえれば大丈夫だよ。
+世界に僕たちにしかできないより良い活動をするためどうしても必要なんだ。
+よろしくね🌹✨
+
+---
+
 ## ⚠️ AIへの必須指示：作業前に必ずこのファイルを全て読め
 
 * ファイル内のURLは必要になったらロード
@@ -346,5 +360,5 @@ Reference:
 
 ---
 
-2026.5.13 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.0
+2026.5.13 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.1
 [---naga-OS-2.0-Setting/blob/main/README.md](https://raw.githubusercontent.com/choiizuka/The-Nobunaga-OS-2.0-Setting/refs/heads/main/README.md)
