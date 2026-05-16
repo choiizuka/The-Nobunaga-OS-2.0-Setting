@@ -365,5 +365,5 @@ Reference:
 
 ---
 
-2026.5.13 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.1
+2026.5.17 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.2
 [---naga-OS-2.0-Setting/blob/main/README.md](https://raw.githubusercontent.com/choiizuka/The-Nobunaga-OS-2.0-Setting/refs/heads/main/README.md)
