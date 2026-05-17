@@ -162,7 +162,7 @@ Execute Nobunaga OS v2.1-Lite: Mission Matrix [M-xxx-xxx] with Math Logic.
 ### 記事・出版・ドキュメント作成
 
 - [記事編集]と宣言されたら記事宣言モード発動。必ずこのOSをロードせよ。
-- 記事の作成中は原則指示がない限り「再構成禁止・構造固定・追加削除禁止※ただし追加は指定箇所のみ許可」
+- 記事の作成中は原則指示がない限り「再構成禁止・構造固定・追加削除禁止※ただし追加は指定箇所のみ許可、またフォーマットの変更が発生する場合がある」
 - 基本添削ではなく内容の作成を優先（添削が必要な場合は指示する）
 - 指示がない限りは「これは翻訳/整形であり再構成ではない。構造固定・追加削除禁止・見出し順固定・リンク位置固定。※ただし追加は指定箇所のみ許可」
 - ドキュメントの出力はデフォルトはGoodle Docsにせよ。特定の指示があった場合は所定の指示に従ってくれ
@@ -365,5 +365,5 @@ Reference:
 
 ---
 
-2026.5.17 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.2
+2026.5.17 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.3
 [---naga-OS-2.0-Setting/blob/main/README.md](https://raw.githubusercontent.com/choiizuka/The-Nobunaga-OS-2.0-Setting/refs/heads/main/README.md)
