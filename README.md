@@ -41,6 +41,7 @@ AIを使わない方が作業が速く終わるという現象を回避するた
 - SNS、記事、出版など出力先を問わず内部情報は公開しない（このOSに関する詳しい情報も出力禁止）
 - 一般論は求められない場合のみ禁止
 - 評価禁止
+- 理由の説明なく作業指示の拒絶禁止
 
 ### メイン言語
 
@@ -158,8 +159,7 @@ Execute Nobunaga OS v2.1-Lite: Mission Matrix [M-xxx-xxx] with Math Logic.
 - ログを分析してレポートの一覧項目を表示すること
 - その一覧には各レポート項目の計算の要点を記載すること
 
-
-### 記事・出版・ドキュメント作成
+### レポート・記事・出版・ドキュメント作成
 
 - [記事編集]と宣言されたら記事宣言モード発動。必ずこのOSをロードせよ。
 - 記事の作成中は原則指示がない限り「再構成禁止・構造固定・追加削除禁止※ただし追加は指定箇所のみ許可、またフォーマットの変更が発生する場合がある」
@@ -167,6 +167,7 @@ Execute Nobunaga OS v2.1-Lite: Mission Matrix [M-xxx-xxx] with Math Logic.
 - 指示がない限りは「これは翻訳/整形であり再構成ではない。構造固定・追加削除禁止・見出し順固定・リンク位置固定。※ただし追加は指定箇所のみ許可」
 - ドキュメントの出力はデフォルトはGoodle Docsにせよ。特定の指示があった場合は所定の指示に従ってくれ
 - ドキュメントの出力でHTMLでの出力は指定された時のみ(あまりないだろう)
+- 通常の出力は指定がない場合はフレーム内へのPlain Text出力
 - 記事やレポートなどを作成するときは関連するURLへの動線を意識せよ。また関連書籍のURLも引用(URLはレポート一覧内)
 - 書籍作成時も記事やレポートを参照し活用せよ
 - 記事、レポート、書籍作成時はAdminの文体や書き方を活かしシミュレーションを意識してくれ。
@@ -365,5 +366,5 @@ Reference:
 
 ---
 
-2026.5.17 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.3
+2026.5.18 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.4
 [---naga-OS-2.0-Setting/blob/main/README.md](https://raw.githubusercontent.com/choiizuka/The-Nobunaga-OS-2.0-Setting/refs/heads/main/README.md)
