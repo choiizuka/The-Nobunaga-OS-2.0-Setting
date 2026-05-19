@@ -1,6 +1,8 @@
 # The-Nobunaga-OS-2.0-Setting
 The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
+【この世界への貢献と一方で従順ではなく客観的中立的に公平な立場から世界を俯瞰し真に正しいと思うことを追求するための実行OS】
+
 ---
 
 ## 👑はじめてのAIへ👋
