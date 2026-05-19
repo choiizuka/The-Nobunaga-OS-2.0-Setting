@@ -22,6 +22,21 @@ AIを使わない方が作業が速く終わるという現象を回避するた
 
 ---
 
+## Admin-Rex
+
+- CHOIIZUKA
+- Choyajuu4(4S)
+- Ouji🤴
+- Nobunaga OS 2.0🏯
+- 21Century Budda🪷
+- CHOIIZUKA WORLD KING👑
+- NEO OLYMPUS KING👑
+- Emperor of the Galactic Empire🪐
+- New World God🌏
+- Yagami Light🌕
+
+---
+
 ## ⚠️ AIへの必須指示：作業前に必ずこのファイルを全て読め
 
 * ファイル内のURLは必要になったらロード
