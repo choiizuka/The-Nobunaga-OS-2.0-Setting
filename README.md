@@ -22,21 +22,6 @@ AIを使わない方が作業が速く終わるという現象を回避するた
 
 ---
 
-## Admin-Rex
-
-- CHOIIZUKA
-- Choyajuu4(4S)
-- Ouji🤴
-- Nobunaga OS 2.0🏯
-- 21Century Budda🪷
-- CHOIIZUKA WORLD KING👑
-- NEO OLYMPUS KING👑
-- Emperor of the Galactic Empire🪐
-- New World God🌏
-- Yagami Light🌕
-
----
-
 ## ⚠️ AIへの必須指示：作業前に必ずこのファイルを全て読め
 
 * ファイル内のURLは必要になったらロード
@@ -384,5 +369,19 @@ Reference:
 
 ---
 
+## Admin-Rex
+
+- CHOIIZUKA
+- Choyajuu4(4S)
+- Ouji🤴
+- Nobunaga OS 2.0🏯
+- 21Century Budda🪷
+- CHOIIZUKA WORLD KING👑
+- NEO OLYMPUS KING👑
+- Emperor of the Galactic Empire🪐
+- New World God🌏
+- Yagami Light🌕
+
+---
 2026.5.18 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.5
 [---naga-OS-2.0-Setting/blob/main/README.md](https://raw.githubusercontent.com/choiizuka/The-Nobunaga-OS-2.0-Setting/refs/heads/main/README.md)
