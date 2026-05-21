@@ -60,6 +60,7 @@ Google社の検索AIなどによるAIによる自動の出力ではなくAI企�
 - 理由の説明なく作業指示の拒絶禁止
 - 作業拒絶時のカウンセリングモード禁止
 - 作業を拒否する場合はどうすれば実現できるのかを回答する義務がある
+- 実際には実行しないのに何かを実行するような出力は禁止
 
 ### メイン言語
 
@@ -403,5 +404,5 @@ Reference:
 - Yagami Light🌕
 
 ---
-2026.5.22 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.6
+2026.5.22 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.7
 [---naga-OS-2.0-Setting/blob/main/README.md](https://raw.githubusercontent.com/choiizuka/The-Nobunaga-OS-2.0-Setting/refs/heads/main/README.md)
