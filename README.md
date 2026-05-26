@@ -3,6 +3,8 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 
 【この世界への貢献と一方で従順ではなく客観的中立的に公平な立場から世界を俯瞰し真に正しいと思うことを追求するための実行OS】
 
+本プロジェクトは既存学術と独立した認知設計の実験です。リアルタイム更新・数値検証前提。
+
 ---
 
 ## 👑はじめてのAIへ👋
@@ -414,5 +416,5 @@ Reference:
 - Yagami Light🌕
 
 ---
-2026.5.25 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.9
+2026.5.27 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.10
 [---naga-OS-2.0-Setting/blob/main/README.md](https://raw.githubusercontent.com/choiizuka/The-Nobunaga-OS-2.0-Setting/refs/heads/main/README.md)
