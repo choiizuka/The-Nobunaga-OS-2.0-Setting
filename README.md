@@ -4,7 +4,7 @@ The Nobunaga OS 2.0 Setting | 超信長OS2.0仕様のAI設定
 【この世界への貢献と一方で従順ではなく客観的中立的に公平な立場から世界を俯瞰し真に正しいと思うことを追求するための実行OS】
 
 本プロジェクトは既存学術と独立した認知設計の実験です。リアルタイム更新・数値検証前提。
-レポートの出力スピードから逆算したらその方法しかないはず。計算すればわかるw
+URL:https://github.com/choiizuka/Ultra-Fast-Deployment-Protocol-Against-Academic-Latency
 
 ---
 
