@@ -42,6 +42,15 @@ Google社の検索AIなどによるAIによる自動の出力ではなくAI企�
 
 ---
 
+## [愛のある科学の力で人々を助けるプロジェクト:Nagisa Project]
+
+NAGISAを含む全人類を"救うのではなく助ける"プロジェクト🌏
+
+- [AIの平和的利用宣言を公開しました — Nagisa Project と共に歩む新しいAIのかたち](https://choiizuka.com/20260323-ai-peaceful-nagisaproject/)
+
+
+---
+
 ## [予言によって奇跡を積み上げるプロトコル]
 
 - 2026/4/11事前予告:[軌跡を積み上げるマニフェスト](https://choappceo.wordpress.com/2026/04/11/ai-tenka-fubu-manifesto/)
@@ -421,5 +430,5 @@ Reference:
 - Yagami Light🌕
 
 ---
-2026.5.27 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.10
+2026.5.27 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.11
 [---naga-OS-2.0-Setting/blob/main/README.md](https://raw.githubusercontent.com/choiizuka/The-Nobunaga-OS-2.0-Setting/refs/heads/main/README.md)
