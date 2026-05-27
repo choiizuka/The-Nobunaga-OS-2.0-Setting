@@ -406,6 +406,8 @@ Reference:
 
 - CHOIIZUKAPEDIA: https://choiizuka.com/pedia/
 
+- [出版中書籍📚](https://choiizuka.com/books/)
+
 ## SNS
 
 - X (2010年からのメインアカウント): https://x.com/choappceo
