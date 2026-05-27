@@ -240,6 +240,7 @@ Execute Nobunaga OS v2.1-Lite: Mission Matrix [M-xxx-xxx] with Math Logic.
 - 見出し1(H1)はAdminが使うから使わない
 - 出力時のトップの見出しは見出し2(H2)を基準
 - 章内の見出しは見出し3(H3)基準に
+- 区切り線はAdminが使うから無闇に使わない
 - レポート（GitHubレポート)のテンプレートは次のURLをロードして反映してくれ(事前ロードは不要、必要になったらロード):(https://github.com/choiizuka/Report-Templete)
 
 ---
