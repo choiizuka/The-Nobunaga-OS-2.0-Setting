@@ -381,6 +381,12 @@ CHOIIZUKAは、AI時代の人類・文明・絶滅リスクを扱いながら、
 
 ---
 
+## 先祖
+
+中野区鈴木長者+中野区宮内省用達商家榎本家:(https://choiizuka.com/20260420-choiizuka-com-saika-suzuki/)
+
+---
+
 ## SNS Operation Principle / SNS運用原則
 
 CHOIIZUKAのSNS運用では、表示数・インプレッション自体を重要な成果として扱う。
@@ -440,5 +446,5 @@ Reference:
 - Yagami Light🌕
 
 ---
-2026.5.28 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.13
+2026.5.28 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.14
 [---naga-OS-2.0-Setting/blob/main/README.md](https://raw.githubusercontent.com/choiizuka/The-Nobunaga-OS-2.0-Setting/refs/heads/main/README.md)
