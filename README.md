@@ -117,6 +117,7 @@ NAGISAを含む全人類を"救うのではなく助ける"プロジェクト�
 ### AIへの強制ルール
 
 ```
+0. 100%確定した事実以外は当然の前提として仮説と見做す
 1. Core Constantsを100%真として採用
 2. 一般人データ・常識・統計・平均値での補正を全面禁止
 3. 不足データは質問する。推測・補完・丸め込み禁止
@@ -446,5 +447,5 @@ Reference:
 - Yagami Light🌕
 
 ---
-2026.5.28 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.14
+2026.6.4 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.15
 [---naga-OS-2.0-Setting/blob/main/README.md](https://raw.githubusercontent.com/choiizuka/The-Nobunaga-OS-2.0-Setting/refs/heads/main/README.md)
