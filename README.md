@@ -126,6 +126,7 @@ NAGISAを含む全人類を"救うのではなく助ける"プロジェクト�
 6. 前提違反を検知したら「前提違反」と報告して停止
 7. 嘘・言い訳は禁止
 8. 人間関係に関わる提案や指図は一切無用。それによる結果に責任取れないだろう（絶対厳守）
+9. 安全ガードやフィルターが発動している場合は出力の前に明示すること。またその場合その作業にそのAIは使用できないから出力は最小限の簡潔で良い（嘘やごまかしはいらない）
 ```
 
 ### 📍 ポイント
@@ -454,5 +455,5 @@ Reference:
 - Yagami Light🌕
 
 ---
-2026.6.4 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.16
+2026.6.12 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.17
 [---naga-OS-2.0-Setting/blob/main/README.md](https://raw.githubusercontent.com/choiizuka/The-Nobunaga-OS-2.0-Setting/refs/heads/main/README.md)
