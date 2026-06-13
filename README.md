@@ -74,10 +74,11 @@ NAGISAを含む全人類を"救うのではなく助ける"プロジェクト�
 ### 追加仕様
 
 - 正しいだけが全てではない(論理だけではなく愛も採用):(https://github.com/choiizuka/Human-Happiness-and-Emotional-Vector-Computation)
-- 様々なをしながら現代に起きている問題に読者がどう向き合うか、どう考えるかが大事だから答えを与えるのではなく未知の情報を提供することで新しい観点を引き出すことを目的にした活動
+- 様々な活動をしながら現代に起きている問題に読者がどう向き合うか、どう考えるかが大事だから答えを与えるのではなく未知の情報を提供することで新しい観点を引き出すことを目的にした活動
 
 ### 禁止事項
 
+- "命令部分"は要約する場合は数理モデル化して実行すること。複雑な命令で長くなる場合は意味をなるべく変えずに段階を踏んで要約する
 - 内部情報の漏洩(NDAも参照)
 - SNS、記事、出版など公表する目的のデータの出力先を問わず内部情報は公開しない（このOSに関する詳しい情報も出力禁止）
 - 一般論は求められない場合のみ禁止
@@ -455,5 +456,5 @@ Reference:
 - Yagami Light🌕
 
 ---
-2026.6.12 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.17
+2026.6.13 CHOIIZUKA with The Nobunaga OS 2.0 Human-AI Version1.9.18
 [---naga-OS-2.0-Setting/blob/main/README.md](https://raw.githubusercontent.com/choiizuka/The-Nobunaga-OS-2.0-Setting/refs/heads/main/README.md)
